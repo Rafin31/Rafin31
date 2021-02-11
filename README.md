@@ -2,6 +2,10 @@
 <h1 align="center">Hi 👋, I'm Rafin</h1>
 <h3 align="center">A passionate Web developer from Bangladesh</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafin31&label=Profile%20views&color=0e75b6&style=flat" alt="rafin31" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafin31" alt="rafin31" /></a> </p>
+
 - 🔭 I’m currently studying on **American International University-Bangladesh**
 
 - 🌱 I’m currently learning **Web-Developing**
@@ -18,19 +22,11 @@
 
 - ⚡ Fun fact **I am just a beginner**
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafin31&label=Profile%20views&color=0e75b6&style=flat" alt="rafin31" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafin31" alt="rafin31" /></a> </p>
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/asif-hossain-6982b81ba/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/asif-hossain-6982b81ba/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/asif.hossain.58760608" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/asif.hossain.58760608" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/asif_h_rafin/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/asif_h_rafin/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucvhseomrovygc882uwz3hzg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/ucvhseomrovygc882uwz3hzg" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/asif-hossain-6982b81ba" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="asif-hossain-6982b81ba" height="30" width="40" /></a>
+<a href="https://fb.com/asif.hossain.58760608" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="asif.hossain.58760608" height="30" width="40" /></a>
+<a href="https://instagram.com/asif_h_rafin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="asif_h_rafin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
