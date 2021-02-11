@@ -8,8 +8,7 @@ Glad to see you here !
 - 😄 Pronouns: Rafin
 - ⚡ Fun fact: I am just a beginner
 
-${your.Rafin31}.${your.repo.id}, https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge
-<img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="visitor badge"/>
+https://visitor-badge.glitch.me/badge?page_id=Rafin31.visitor-badge.issue.1
 
 
 
