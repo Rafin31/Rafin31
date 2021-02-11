@@ -10,6 +10,10 @@ Glad to see you here !
 
 https://visitor-badge.glitch.me/badge?page_id=Rafin31.visitor-badge.issue.1
 
+<del>
+*foo*
+</del>
+
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafin31&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
