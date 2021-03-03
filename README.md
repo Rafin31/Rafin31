@@ -1,6 +1,7 @@
 <img height="400" width="auto" src="https://media.giphy.com/media/7ltN7lCgF2MQE/giphy.gif">
 <h1 align="center">Hi 👋, I'm Rafin</h1>
-[<h3 align="center">A passionate Web developer from Bangladesh</h3>](url)
+<!--- <h3 align="center">A passionate Web developer from Bangladesh</h3>  --->
+
 
 🔭 I’m currently studying on **American International University-Bangladesh**
 
