@@ -5,7 +5,7 @@
 
 🔭 I’m currently studying on **American International University-Bangladesh**
 
-- 🌱 I’m currently learning **React || PHP || Javascript**
+- 🌱 I’m currently learning **React || Laravel || Javascript**
 
 - 👯 I’m looking to collaborate on **Website Developing**
 
