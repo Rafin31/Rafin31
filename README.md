@@ -9,11 +9,10 @@
 
 - 👯 I’m looking to collaborate on **Website Developing**
 
-- 💬 Ask me about **Html5 , CSS3 , Javascript**
+- 💬 Ask me about **React , PHP , Javascript**
 
 - 📫 How to reach me **asifhossain976@gmail.com**
 
-- ⚡ Fun fact **I am just a beginner**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafin31&label=Profile%20views&color=0e75b6&style=flat" alt="rafin31" /> </p>
 
