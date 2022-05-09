@@ -5,7 +5,7 @@
 
 🔭 I am a **Fullstack Web developer** from Dhaka Bangladesh
 
-- 🌱 My Stack **Javascript, React.js, Next.js, Node.js Express.js, PHP, Laravel**
+- 🌱 My Stack **Javascript, PHP || React.js, Next.js || Node.js Express.js || Laravel || MongoDb, MySQL**
 
 - 💬 Ask me about **React , PHP , Javascript**
 
