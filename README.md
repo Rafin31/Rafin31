@@ -3,11 +3,9 @@
 <!--- <h3 align="center">A passionate Web developer from Bangladesh</h3>  --->
 
 
-🔭 I’m currently studying on **American International University-Bangladesh**
+🔭 I am a **Fullstack Web developer** from Dhaka Bangladesh
 
-- 🌱 I’m currently learning **React || Laravel || Three.js **
-
-- 👯 I’m looking to collaborate on **Website Developing**
+- 🌱 My Stack **Javascript || React.js Next.js || Node.js Express.js || PHP || Laravel  **
 
 - 💬 Ask me about **React , PHP , Javascript**
 
