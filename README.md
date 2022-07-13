@@ -12,20 +12,6 @@
 - 📫 How to reach me **asifhossain976@gmail.com**
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafin31&label=Profile%20views&color=0e75b6&style=flat" alt="rafin31" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafin31" alt="rafin31" /></a> </p>
-
-- 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/asif-hossain-6982b81ba" target="blank">
-  <img align="center" src="	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
-  </a>
-<a href="https://fb.com/asif.hossain.58760608" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"  /></a>
-<a href="https://instagram.com/asif_h_rafin" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -53,13 +39,24 @@
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT"/> 
 <img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white" alt="Stripe"/> 
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"/> 
-<img src="	https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/> 
-  
-  
-  
-  
-
- 
-  
-
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/> 
 </p>
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/asif-hossain-6982b81ba" target="blank">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
+  </a>
+<a href="https://fb.com/asif.hossain.58760608" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"  /></a>
+<a href="https://instagram.com/asif_h_rafin" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
+
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafin31&label=Profile%20views&color=0e75b6&style=flat" alt="rafin31" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafin31" alt="rafin31" /></a> </p>
+
+-
