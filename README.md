@@ -7,7 +7,7 @@
 
 - 🌱 My Stack **Javascript, PHP || React.js, Next.js || Node.js Express.js || Laravel || MongoDb, Firebase, MySQL**
 
-- 💬 Ask me about **React, Javascript, PHP  **
+- 💬 Ask me about **React, Javascript, PHP**
 
 - 📫 How to reach me **asifhossain976@gmail.com**
 
@@ -59,4 +59,3 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafin31" alt="rafin31" /></a> </p>
 
--
