@@ -5,9 +5,9 @@
 
 🔭 I am a **Fullstack Web developer** from Dhaka Bangladesh
 
-- 🌱 My Stack **Javascript, PHP || React.js, Next.js || Node.js Express.js || Laravel || MongoDb, Firebase, MySQL**
+- 🌱 My Stack **Javascript, Typescript || React.js, Next.js || Node.js Express.js || MongoDb, PostgreSQL, Firebase, MySQL**
 
-- 💬 Ask me about **React, Javascript, PHP**
+- 💬 Ask me about **React, Javascript **
 
 - 📫 How to reach me **asifhossain976@gmail.com**
 
