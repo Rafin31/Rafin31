@@ -22,7 +22,7 @@
 
 ### About me
 
-I'm a full-stack developer with a Master's in Software Engineering from the University of Wollongong. I build clean, scalable web applications — from database to UI. Currently open to junior developer roles in Australia.
+I'm a full-stack developer with a Master's in Software Engineering from the University of Wollongong. I build clean, scalable web applications from database to UI. Currently open to junior developer roles in Australia.
 
 - Ask me about **React, Node.js, TypeScript**
 - Working with **JavaScript · TypeScript · React · Next.js · Node.js · Express**
