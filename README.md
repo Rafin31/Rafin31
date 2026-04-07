@@ -24,7 +24,7 @@
 
 ### About me
 
-I'm a full-stack developer based in Wollongong, NSW, with a Master's in Software Engineering from the University of Wollongong. I enjoy building web applications that are clean, efficient, and easy to maintain — from designing APIs to crafting responsive interfaces.
+I'm a full-stack developer based in Wollongong, NSW, with a Master's in Software Engineering from the University of Wollongong. I enjoy building web applications that are clean, efficient, and easy to maintain from designing APIs to crafting responsive interfaces.
 
 My work spans both frontend and backend, with hands-on experience delivering real projects in medical supplier management systems and freelance client work via Fiverr. I care about writing code that is readable, well-structured, and built to last.
 
